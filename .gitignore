@@ -1,0 +1,29 @@
+.DS_Store
+node_modules/
+/.vite
+/dist
+/build
+/out
+coverage/
+logs
+*.log
+
+# environment
+.env
+.env.local
+.env.*.local
+
+# editors and IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+
+# TypeScript
+*.tsbuildinfo
+
+# OS
+Thumbs.db
+
+# temporary
+*.tmp
+*.bak
